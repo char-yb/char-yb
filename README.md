@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning 
+🌱 I’m currently learning 
 - Backend: Spring, Node.js
 - Frontend: HTML, CSS, JavaScript, React.js
 - Other: DataStruct, Algorithm (language: java)
