@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" />
   <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white"> 
   <br />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white" />
 </div>
