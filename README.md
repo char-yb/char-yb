@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" />
   <img src="https://img.shields.io/badge/-c-black?logo=c%2B%2B&style=black" />
   <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat" />
-  <img src="https://img.shields.io/badge/-c%23-000000?logo=Csharp&style=flat" />
+  <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat" />
   <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white"> 
   <br />
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white">
