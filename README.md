@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 <p align="center">
   📚
 </p>
-<p align="center">These are techs that I've used at least once.</p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/-c++-black?logo=c++%2B%2B&style=social" />
+  <img src="https://img.shields.io/badge/-c-black?logo=c%2B%2B&style=social" />
+  <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat" />
   <img src="https://img.shields.io/badge/-c%23-000000?logo=Csharp&style=flat" />
   <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white"> 
   <br />
