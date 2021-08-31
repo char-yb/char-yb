@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-C-black?logo=c%2B%2B&style=black" />
   <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat" />
   <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat" />
-  <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=orange"> 
   <br />
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=Spring&logoColor=white">
