@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning 
 - Backend: Spring, Node.js, Typescript, MySQL
-- Frontend: HTML, CSS, JavaScript, React.js
+- Frontend: HTML, css, JavaScript
 - Other: DataStruct, Algorithm (language: JAVA, C++, C)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiurihappy)](https://github.com/anuraghazra/github-readme-stats)
 
