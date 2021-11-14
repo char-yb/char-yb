@@ -32,18 +32,18 @@ Here are some ideas to get you started:
   📚
 </p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C-black?logo=c%2B%2B&style=black" />
-  <img src="https://img.shields.io/badge/-C++-000000?logo=c%2B%2B&style=flat" />
-  <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat" />
-  <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 </div>
