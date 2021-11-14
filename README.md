@@ -45,4 +45,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 </div>
