@@ -1,4 +1,7 @@
-### Hi there, I'm yunbeom👋
+## Hi there, I'm yunbeom👋
+
+### Computer Engineering department at <a href="https://sejong.ac.kr">
+### Backend Developer at <a href="https://topco.co.kr">
 
 <!--
 **uiurihappy/uiurihappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +17,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning 
-- Backend: Spring, Nestjs, MySQL, express
-- Frontend: HTML, CSS, JavaScript
-- Other: DataStruct, Algorithm (Language: C, Java)
+
+🌱 I’m Backend Developer
+- Tech : Spring, Nestjs, MySQL, Express, javascript
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiurihappy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuiurihappy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<h3 align="center">
-  
+<h3 align="center">   
   _Tech stack_
   
 </h3>
