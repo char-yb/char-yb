@@ -1,7 +1,7 @@
 ## Hi there, I'm yunbeom👋
 
-### Computer Engineering department at <a href="https://sejong.ac.kr">Sejong University</a>
-### Backend Developer at <a href="https://topco.co.kr">Topco</a>
+<b> Computer Engineering department at <a href="https://sejong.ac.kr">Sejong University</a> </b> <br/>
+<b> Backend Developer at <a href="https://topco.co.kr">Topco</a> </b>
 
 <!--
 **uiurihappy/uiurihappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,20 +19,23 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m Backend Developer
-- Tech : Spring, Nestjs, MySQL, Express, javascript
+- currently working on : Nestjs, Express, Typescript, Javascript
+- usable : Spring boot, Java 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiurihappy)](https://github.com/anuraghazra/github-readme-stats)
+✍️ I'm interested in
+- IOS
+- Swift
+- AWS
+<br/>
+
+📫 How to reach me
+- uiurihappy@naver.com
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuiurihappy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-<h3 align="center">   
-  _Tech stack_
-  
-</h3>
-<p align="center">
-  📚
-</p>
+<div align=center><h1>📚 STACKS</h1></div>
+
 <div align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -49,5 +52,5 @@ Here are some ideas to get you started:
   <br />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
 </div>
