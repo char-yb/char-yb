@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 - Java 
 <br/>
 
+## 📝 My Dev Log
+<a href="https://ybchar.tistory.com">ybchar TISTORY</a> <br/>
+<a href="https://ybchar.notion.site/Introduce-d81729a2f1be49b3bda27137726f23d9">ybchar Notion</a> <br/>
+<br/>
 📫 How to reach me
 - uiurihappy@naver.com
 
