@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Currently working on : Nestjs, Express, Typescript, Javascript
 
 ✍️ I'm interested in
-- IOS
+- iOS
 - Swift
 - AWS
 - Spring boot
