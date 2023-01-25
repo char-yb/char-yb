@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - Java 
 <br/>
 
-## 💼 My Work Log
+## 💼 My Work Account
 <a href="https://github.com/ybchar"> ybchar Account </a> <br/>
 
 ## 📝 My Dev Log
