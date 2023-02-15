@@ -19,14 +19,18 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m Backend Developer
-- Currently working on : Nestjs, Express, Typescript, Javascript
+- Currently working on : Node.js, Nestjs, Express, Typescript, Javascript, Go
 
 ✍️ I'm interested in
+- Java 
+- Spring boot
+- Spring Data JPA
+- Querydsl
+- AWS
 - iOS
 - Swift
-- AWS
-- Spring boot
-- Java 
+
+
 <br/>
 
 ## 💼 My Work Account
