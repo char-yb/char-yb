@@ -33,6 +33,15 @@ Here are some ideas to get you started:
 
 <br/>
 
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/uiurihappy/count.svg" />
+</p>
+
+<br/>
+
 ## 💼 My Work Account
 <a href="https://github.com/ybchar"> Work Account </a> <br/>
 
