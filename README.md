@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ## 📝 My Dev Log
 <a href="https://ybchar.tistory.com"> DevLog Tistory </a> <br/>
-<a href="https://ybchar.notion.site/Introduce-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/>
+<a href="https://ybchar.notion.site/Yunbeom-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/>
 <br/>
 📫 How to reach me
 - uiurihappy@naver.com
