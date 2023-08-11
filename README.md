@@ -1,14 +1,21 @@
 ## Hi there, I'm yunbeom👋
 
-🌱 I’m Backend Developer
-- Currently working on : Node.js, Nestjs, Express, Typescript, Javascript, Go, AWS
+<b> 🌱 I’m Backend Developer </b>
+- Currently working on : Node.js, Nestjs, Typescript, Javascript, Go, AWS
 
-✍️ I'm interested in
-- Java 
+<b> 📝 Available Skill </b>
+- Javascript
+- Typescript
+- Java
+- Go
+- Node.js
+- NestJs
+- AWS Lambda, S3, SQS, EC2
 - Spring boot
 - Spring Data JPA
+- Spring Security
+- Spring SSE
 - Querydsl
-- AWS
 
 <br/>
 
