@@ -14,7 +14,7 @@
 - Spring boot
 - Spring Data JPA
 - Spring Security
-- Spring SSE
+- Spring + SSE
 - Querydsl
 
 <br/>
