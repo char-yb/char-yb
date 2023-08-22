@@ -1,7 +1,7 @@
 ## Hi there, I'm yunbeom👋
 
 <b> 🌱 I’m Backend Developer </b>
-- Currently working on : Node.js, Nestjs, Typescript, Javascript, Go, AWS
+- Currently working on Skill: Node.js, Nestjs, Typescript, Javascript, Go, AWS
 
 <b> 📝 Available Skill </b>
 - Javascript
@@ -17,6 +17,9 @@
 - Spring + SSE
 - Querydsl
 
+<b> 📝 Interested in Skill </b>
+- Kotlin
+- Kopring
 <br/>
 
 <a href=#><img src="contributions.svg"></a>
