@@ -10,12 +10,9 @@
 - Go
 - Node.js
 - NestJs
-- AWS Lambda, S3, SQS, EC2
-- Spring boot
-- Spring Data JPA
-- Spring Security
-- Spring + SSE
+- Spring boot, Security, JPA
 - Querydsl
+- AWS EC2, S3, CloudFront, CodeDeploy, RDS, Route53, Lambda
 
 <b> 📝 Interested in Skill </b>
 - Kotlin
