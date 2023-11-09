@@ -27,9 +27,12 @@
 <a href="https://github.com/ybchar"> Work Account </a> <br/>
 
 ## 📝 My Dev Log
-<a href="https://ybchar.tistory.com"> DevLog Tistory </a> <br/>
+<a href="https://ybchar.tistory.com"> Tistory </a> <br/>
+<!-- <a href="https://ybchar.notion.site/Yunbeom-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/> -->
+<a href="https://velog.io/@uiurihappy"> Velog </a> <br/>
 <!-- <a href="https://ybchar.notion.site/Yunbeom-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/> -->
 <br/>
+
 
 <h2> 📫 How to reach me </h2>
 - uiurihappy@naver.com
