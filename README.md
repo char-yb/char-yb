@@ -1,9 +1,20 @@
-## Hi there, I'm yunbeom👋
 
-<b> 🌱 I’m Backend Developer </b>
-- Currently working on Skill: Node.js, Nestjs, Typescript, Javascript, Go, AWS
+# 💻 Yunbeom 💻 - Backend Developer
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uiurihappy&show_icons=true&theme=vuefy)](https://github.com/uiurihappy/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=uiurihappy&no-frame=true&row=1&column=6&no-bg=true)](https://github.com/uiurihappy/)
 
-<b> 📝 Available Skill </b>
+---
+
+## 📝 My Dev Log
+
+<!-- <a href="https://ybchar.notion.site/Yunbeom-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/> -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy)
+<br/>
+<a href="https://ybchar.tistory.com"> Tistory </a> <br/>
+
+---
+
+### 📝 Available Skill
 - Javascript
 - Typescript
 - Java
@@ -14,24 +25,17 @@
 - Querydsl
 - AWS EC2, S3, CloudFront, CodeDeploy, RDS, Route53, Lambda
 
-<b> 📝 Interested in Skill </b>
+### 📝 Interested in Skill
 - Kotlin
 - Kopring
-<br/>
 
-<a href=#><img src="contributions.svg"></a>
+<!-- <a href=#><img src="contributions.svg"></a> -->
 
-<br/>
+---
 
 ## 💼 My Work Account
 <a href="https://github.com/ybchar"> Work Account </a> <br/>
 
-## 📝 My Dev Log
-<a href="https://ybchar.tistory.com"> Tistory </a> <br/>
-<!-- <a href="https://ybchar.notion.site/Yunbeom-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/> -->
-<a href="https://velog.io/@uiurihappy"> Velog </a> <br/>
-<!-- <a href="https://ybchar.notion.site/Yunbeom-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/> -->
-<br/>
 
 
 <h2> 📫 How to reach me </h2>
