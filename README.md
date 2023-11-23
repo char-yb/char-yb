@@ -18,8 +18,7 @@
 
 <!-- <a href="https://ybchar.notion.site/Yunbeom-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/> -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy)
-<br/>
-<a href="https://ybchar.tistory.com"> Tistory </a> <br/>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ybchar)](https://ybchar.tistory.com)
 
 ---
 
