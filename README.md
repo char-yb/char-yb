@@ -6,10 +6,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uiurihappy&show_icons=true&theme=vuefy)](https://github.com/uiurihappy/uiurihappy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiurihappy&layout=compact&langs_count=8&theme=white)](https://github.com/uiurihappy?tab=repositories&q=&type=&language=java&sort=)
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=uiurihappy&theme=flat&column=7)](https://github.com/uiurihappy?tab=overview&from=2023-01-01&to=2023-12-31)
-<br/>
 <br/>
 
 ---
@@ -29,21 +25,16 @@
 - Go
 - Node.js
 - NestJs
-- Spring boot, Security, JPA
+- Spring boot, JPA
 - Querydsl
 - AWS EC2, S3, CloudFront, CodeDeploy, RDS, Route53, Lambda
 
 ### 📝 Interested in Skill
 - Kotlin
-- Kopring
 
 <!-- <a href=#><img src="contributions.svg"></a> -->
 
 ---
-
-## 💼 My Work Account
-<a href="https://github.com/ybchar"> Work Account </a> <br/>
-
 
 
 <h2> 📫 How to reach me </h2>
