@@ -31,9 +31,8 @@
 - **Communication & Collaboration:** Notion, Slack
 
 ---
-### Experience
-- **Depromeet**(디프만) 14기 `2024.11.04 ~ 2024.02.17`
-  - 10MM(하루 10분으로 시작하는 습관 만들기) 백엔드 개발 [Info](https://info.10mm.today/)
+### 🚀 Experience
+<li><a href="https://github.com/depromeet/10mm-server">디프만 14기</a> : <sub> 하루 10분으로 시작하는 습관 만들기(디프만 최우수상) </sub> <a href="https://info.10mm.today/">10MM</a> 백엔드 개발 </li>
 
 ---
 ### 📫 How to reach me
