@@ -8,7 +8,7 @@
 
 ---
 
-## 📝 Dev Log
+### 📝 Dev Log
 
 <!-- <a href="https://ybchar.notion.site/Yunbeom-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/> -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy)
@@ -30,6 +30,10 @@
 - **Version Control:** Git
 - **Communication & Collaboration:** Notion, Slack
 
+---
+### Experience
+- **Depromeet**(디프만) 14기 `2024.11.04 ~ 2024.02.17`
+  - 10MM(하루 10분으로 시작하는 습관 만들기) 백엔드 개발 [Info](https://info.10mm.today/)
 
 ---
 ### 📫 How to reach me
