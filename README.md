@@ -1,17 +1,19 @@
 
-# 💻 Yunbeom 💻 - Backend Developer
- 
+<!--
 <br/>
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uiurihappy&show_icons=true&theme=vuefy)](https://github.com/uiurihappy/uiurihappy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiurihappy&layout=compact&langs_count=8&theme=white)](https://github.com/uiurihappy?tab=repositories&q=&type=&language=java&sort=)
-
----
-
+-->
 ### 📝 Dev Log
 
 <!-- <a href="https://ybchar.notion.site/Yunbeom-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/> -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy)
+
+---
+### 🚀 Experience
+<li><a href="https://github.com/team-asos/asos-server">세종대학교 창의설계경진대회</a> : <sub> ESL 전자태그를 활용한 스마트오피스(우수상) </sub> <a href="https://youtu.be/YBxEm7mVuEE?si=vnolbVn3ordreFSd">내자리야</a> 백엔드 개발 </li>
+<li><a href="https://github.com/depromeet/10mm-server">디프만 14기</a> : <sub> 하루 10분으로 시작하는 습관 만들기(최우수상) </sub> <a href="https://info.10mm.today/">10MM</a> 백엔드 개발 </li>
 
 ---
 
@@ -30,10 +32,4 @@
 - **Version Control:** Git
 - **Communication & Collaboration:** Notion, Slack
 
----
-### 🚀 Experience
-<li><a href="https://github.com/depromeet/10mm-server">디프만 14기</a> : <sub> 하루 10분으로 시작하는 습관 만들기(최우수상) </sub> <a href="https://info.10mm.today/">10MM</a> 백엔드 개발 </li>
 
----
-### 📫 How to reach me
-- uiurihappy@naver.com
