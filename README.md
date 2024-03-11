@@ -12,8 +12,9 @@
 
 ---
 ### 🚀 Experience
-<li><a href="https://github.com/team-asos/asos-server">세종대학교 창의설계경진대회</a> : <sub> ESL 전자태그를 활용한 스마트오피스(우수상) </sub> <a href="https://youtu.be/YBxEm7mVuEE?si=vnolbVn3ordreFSd">내자리야</a> 백엔드 개발 </li>
-<li><a href="https://github.com/depromeet/10mm-server">디프만 14기</a> : <sub> 하루 10분으로 시작하는 습관 만들기(최우수상) </sub> <a href="https://info.10mm.today/">10MM</a> 백엔드 개발 </li>
+<li><a href="https://github.com/team-asos/asos-server">세종대학교 창의설계경진대회</a> : <sub> ESL 전자태그를 활용한 스마트오피스(우수상) </sub> <a href="https://youtu.be/YBxEm7mVuEE?si=vnolbVn3ordreFSd">내자리야</a> 백엔드 </li>
+<li><a href="https://github.com/depromeet/10mm-server">디프만 14기</a> : <sub> 하루 10분으로 시작하는 습관 만들기(최우수상) </sub> <a href="https://info.10mm.today/">10MM</a> 백엔드 </li>
+<li><a href="https://github.com/SejongPeer/SejongPeer-back">세종피어</a> : <sub> 세종대학교 버디 및 혼밥 친구 매칭 서비스 </sub> <a href="https://sejongpeer.co.kr">세종피어</a> 백엔드/프론트엔드 </li>
 
 ---
 
