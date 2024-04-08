@@ -30,12 +30,11 @@
     - Nestjs
     - Spring Boot, Spring Data JPA, Querydsl, Spring Security
     - Cloud
-        - AWS EC2, S3, Lambda, CloudFront, CodeDeploy, RDS, Route53 / ACM, IAM
-        - Naver Cloud Platform,  Server, Container Registry, Source Deploy, Object Storage, Load Balancer
-- **Database:** Mysql
+        - AWS (EC2, S3, Lambda, CloudFront, CodeDeploy, RDS, Load Balancer, Route53, ACM, IAM)
+        - Naver Cloud Platform (Server, Container Registry, Source Deploy, Object Storage, Load Balancer)
+- **Database:** Mysql, Postgres
 - **Monitoring:** Datadog, Grafana, AWS CloudWatch
 - **IDEs:** IntelliJ, DataGrip, Vscode, Webstorm
-- **Version Control:** Git
-- **Communication & Collaboration:** Notion, Slack
+- **Communication & Collaboration:** Notion, Slack, Jira
 
 
