@@ -5,12 +5,14 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=uiurihappy&show_icons=true&theme=vuefy)](https://github.com/uiurihappy/uiurihappy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uiurihappy&layout=compact&langs_count=8&theme=white)](https://github.com/uiurihappy?tab=repositories&q=&type=&language=java&sort=)
 -->
-## 📝 Dev Log
+
 
 <!-- <a href="https://ybchar.notion.site/Yunbeom-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/> -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy)
-
----
+<!--
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/uiurihappy" width="1000" height="120"/>
+</a>
+-->
 
 ## 🚀 Experience
 | Organization                                                                                           | Project Description                                                                                                                |
@@ -37,4 +39,12 @@
 - **IDEs:** IntelliJ, DataGrip, Vscode, Webstorm
 - **Communication & Collaboration:** Notion, Slack, Jira
 
+---
+## 📝 Dev Log
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy)
+
+---
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/uiurihappy"/>
+</a>
 
