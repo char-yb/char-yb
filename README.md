@@ -25,22 +25,21 @@
 ---
 
 
-### 📝 Tech Stack
-- **Front-End:** JavaScript, TypeScript
-    - Vue.js 3.0, Element Plus, Bootstrap, HTML/CSS, SCSS
-- **Back-End:** Javascript, Typescript, Node.js, Go (AWS Lambda), Java, Kotlin(Studying)
-    - Nestjs
-    - Spring Boot, Spring Data JPA, Querydsl, Spring Security
-    - Cloud
-        - AWS (EC2, S3, Lambda, CloudFront, CodeDeploy, RDS, Load Balancer, Route53, ACM, IAM)
-        - Naver Cloud Platform (Server, Container Registry, Source Deploy, Object Storage, Load Balancer)
-- **Database:** Mysql, Postgres
-- **Monitoring:** Datadog, Grafana, AWS CloudWatch
-- **IDEs:** IntelliJ, DataGrip, Vscode, Webstorm
-- **Communication & Collaboration:** Notion, Slack, Jira
+# 🛠️ Available Skills.
+
+- **`Front-End`:** JavaScript, TypeScript, React.js, Next.js, React-Query, Vue.js 3.0, Element Plus
+- **`Back-End`:** Typescript, Node.js, Java, Kotlin
+    - Nestjs(TypeORM) Spring Boot, Spring Data JPA, Querydsl, Spring Security, Spring WebFlux, FCM(Firebase Cloud Messaging)
+    - AWS: EC2, S3, Lambda, CloudFront, CodeDeploy, RDS, Load Balancing, Route53, ACM, IAM
+    - Naver Cloud Platform: Server, Container Registry, Source Deploy, Object Storage, Load Balancer, Cloud for Redis
+- **`Database`:** MySQL, Postgres, Redis
+- **`Monitoring`:** Datadog, Prometheus - Grafana, AWS CloudWatch
+- **`IDEs`:** IntelliJ, Vscode, Webstorm
+- **`Version Control`:** Git
+- **`Communication & Collaboration`:** Notion, Slack, Jira
 
 ---
-## 📝 Dev Log
+## 📝 Dev Log.
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy)
 
 ---
