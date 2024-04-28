@@ -40,10 +40,14 @@
 
 ---
 ## 📝 Dev Log.
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy)
 
----
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/uiurihappy"/>
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/uiurihappy" width="480" height="240"/>
+  </a>
+  <a href="https://velog.io/@uiurihappy">
+    <img src="https://velog-readme-stats.vercel.app/api?name=uiurihappy" width="480" height="240"/>
+  </a>
+</div>
+
 
