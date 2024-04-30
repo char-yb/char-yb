@@ -13,8 +13,14 @@
   <img src="https://render.gitanimals.org/lines/uiurihappy" width="1000" height="120"/>
 </a>
 -->
+<div align="center" style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/uiurihappy" width="480" height="240"/>
+  </a>
+  
+</div>
 
-## 🚀 Experience
+## 🚀 Experience.
 | Organization                                                                                           | Project Description                                                                                                                |
 |------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | [세종대학교 창의설계경진대회](https://github.com/team-asos/asos-server)                                | ESL 전자태그를 활용한 스마트오피스(우수상) [내자리야](https://youtu.be/YBxEm7mVuEE?si=vnolbVn3ordreFSd) (백엔드)              |
@@ -25,7 +31,7 @@
 ---
 
 
-# 🛠️ Available Skills.
+## 🛠️ Available Skills.
 
 - **`Front-End`:** JavaScript, TypeScript, React.js, Next.js, React-Query, Vue.js 3.0, Element Plus
 - **`Back-End`:** Typescript, Node.js, Java, Kotlin
@@ -41,13 +47,8 @@
 ---
 ## 📝 Dev Log.
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/uiurihappy" width="480" height="240"/>
-  </a>
-  <a href="https://velog.io/@uiurihappy">
+<a href="https://velog.io/@uiurihappy">
     <img src="https://velog-readme-stats.vercel.app/api?name=uiurihappy" width="480" height="240"/>
-  </a>
-</div>
+</a>
 
 
