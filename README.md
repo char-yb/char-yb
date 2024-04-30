@@ -46,9 +46,5 @@
 
 ---
 ## 📝 Dev Log.
-
-<a href="https://velog.io/@uiurihappy">
-    <img src="https://velog-readme-stats.vercel.app/api?name=uiurihappy" width="480" height="240"/>
-</a>
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy)
 
