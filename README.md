@@ -30,22 +30,6 @@
 | [세종대학교 창의설계경진대회](https://github.com/team-asos/asos-server)                                | ESL 전자태그를 활용한 스마트오피스(우수상)               |[내자리야](https://youtu.be/YBxEm7mVuEE?si=vnolbVn3ordreFSd) |
 
 ---
-
-
-## 🛠️ Available Skills.
-
-- **`Front-End`:** JavaScript, TypeScript, React.js, Next.js, React-Query, Vue.js 3.0, Element Plus
-- **`Back-End`:** Typescript, Node.js, Java, Kotlin
-    - Nestjs(TypeORM) Spring Boot, Spring Data JPA, Querydsl, Spring Security, Spring WebFlux, FCM(Firebase Cloud Messaging)
-    - AWS: EC2, S3, Lambda, CloudFront, CodeDeploy, RDS, Load Balancing, Route53, ACM, IAM
-    - Naver Cloud Platform: Server, Container Registry, Source Deploy, Object Storage, Load Balancer, Cloud for Redis
-- **`Database`:** MySQL, Postgres, Redis
-- **`Monitoring`:** Datadog, Prometheus - Grafana, AWS CloudWatch
-- **`IDEs`:** IntelliJ, Vscode, Webstorm
-- **`Version Control`:** Git
-- **`Communication & Collaboration`:** Notion, Slack, Jira
-
----
 ## 📝 Dev Log.
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy)
 
