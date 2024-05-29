@@ -10,15 +10,12 @@
 <!-- <a href="https://ybchar.notion.site/Yunbeom-d81729a2f1be49b3bda27137726f23d9"> DevLog Notion</a> <br/> -->
 <!--
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/uiurihappy" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/uiurihappy" width="1000" height="120"/>
 </a>
 -->
-<div align="center" style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/uiurihappy" width="480" height="240"/>
-  </a>
-  
-</div>
+
+
+
 
 ## 🚀 Experience.
 | Organization                                                                                           | Project Description                                                                                                                | Result                          |
@@ -31,5 +28,15 @@
 
 ---
 ## 📝 Dev Log.
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy) <a href="https://github.com/devxb/gitanimals/">
+ <img src="https://render.gitanimals.org/lines/uiurihappy?pet-id=15" height="120" width="45%" align=right/>
+</a>
+
+<!--
+---
+<a href="https://github.com/devxb/gitanimals/">
+  <img src="https://render.gitanimals.org/lines/uiurihappy?pet-id=15" height="100" width="45%" align=right />
+  <img src="https://render.gitanimals.org/lines/uiurihappy?pet-id=15" height="100" width="45%" align=right />
+</a>
+-->
