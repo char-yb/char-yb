@@ -27,9 +27,12 @@
 | [세종대학교 창의설계경진대회](https://github.com/team-asos/asos-server)                                | ESL 전자태그를 활용한 스마트오피스(우수상)               |[내자리야](https://youtu.be/YBxEm7mVuEE?si=vnolbVn3ordreFSd) |
 
 ---
+<!--
 ## 📝 Dev Log.
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy) <a href="https://github.com/devxb/gitanimals/">
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy) 
+-->
+<a href="https://github.com/devxb/gitanimals/">
  <img src="https://render.gitanimals.org/lines/uiurihappy?pet-id=15" height="120" width="45%" align=right/>
 </a>
 
