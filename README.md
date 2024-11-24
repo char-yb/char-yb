@@ -32,16 +32,10 @@
 ## 📝 Dev Log.
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=uiurihappy)](https://velog.io/@uiurihappy) <a href="https://github.com/devxb/gitanimals">
+
+---
 <img
   src="https://render.gitanimals.org/farms/char-yb"
   width="300"
 />
-</a>
-
-<!--
----
-<a href="https://github.com/devxb/gitanimals/">
-  <img src="https://render.gitanimals.org/lines/uiurihappy?pet-id=15" height="100" width="45%" align=right />
-  <img src="https://render.gitanimals.org/lines/uiurihappy?pet-id=15" height="100" width="45%" align=right />
-</a>
--->
+</a> <a href="https://opgc.me/#/users/char-yb" target="_blank"><img src="https://api.opgc.me/githubs/users/char-yb/tag/?theme=basic" /></a>
