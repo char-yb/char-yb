@@ -39,3 +39,4 @@
   width="300"
 />
 </a> <a href="https://opgc.me/#/users/char-yb" target="_blank"><img src="https://api.opgc.me/githubs/users/char-yb/tag/?theme=basic" /></a>
+[![rankit-badge](https://badge.rankit.run/badge?name=char-yb)](https://www.rankit.run)
