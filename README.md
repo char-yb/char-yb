@@ -38,5 +38,5 @@
   src="https://render.gitanimals.org/farms/char-yb"
   width="300"
 />
-</a> <a href="https://opgc.me/#/users/char-yb" target="_blank"><img src="https://api.opgc.me/githubs/users/char-yb/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/char-yb" target="_blank"><img src="https://api.opgc.me/githubs/users/char-yb/tag/?theme=basic" width="315" height="150"/></a>
 [![rankit-badge](https://badge.rankit.run/badge?name=char-yb)](https://www.rankit.run)
