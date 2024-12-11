@@ -36,12 +36,12 @@
 
 ---
 
-<a href="https://opgc.me/#/users/char-yb" target="_blank"><img src="https://api.opgc.me/githubs/users/char-yb/tag/?theme=basic" width="315" height="150"/></a>
+<a href="https://opgc.me/#/users/char-yb" target="_blank"><img src="https://api.opgc.me/githubs/users/char-yb/tag/?theme=basic" width="370" height="150"/></a>
 [![rankit-badge](https://badge.rankit.run/badge?name=char-yb)](https://www.rankit.run)
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/char-yb?pet-id=654331056527892586"
-    width="300"
+    width="255"
     height="120"
   />
 </a>
