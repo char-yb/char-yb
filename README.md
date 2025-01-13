@@ -20,6 +20,7 @@
 ## 🚀 Experience.
 | Activity                                                                                                | Description                                                                                                                      | Result                          |
 |----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| [SIPE 3기](https://sipe.team/)          | Smart(Spring Modular Architecture Research Team) Payment       | [2차 미션](https://github.com/sipe-team/3-2_smart_fintech)    |  
 | [SIPE 3기](https://sipe.team/)          | 어렵게 배워서, 쉽게 사용하는 Webflux + Coroutines       | [1차 미션](https://github.com/sipe-team/3_1_spring_webflux_coroutines)    |  
 | [디프만 15기](https://depromeet.com) (Team, Server Lead)          | 하루 한 번, 반려동물과의 미션으로 특별한 순간을 담다       | [왈왈](https://github.com/depromeet/WalWal-server)    |  
 | [2024 DND 해커톤](https://festa.io/events/4978)                                        | 나 몰래 진행되었던 축제를 찾아주고 커스텀 축제 등록 서비스  | [모어(모르는데 어떻게 가요)](https://github.com/DND-Hi/BE) |  
