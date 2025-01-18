@@ -37,7 +37,6 @@
 
 ---
 
-<a href="https://opgc.me/#/users/char-yb" target="_blank"><img src="https://api.opgc.me/githubs/users/char-yb/tag/?theme=basic" width="370" height="150"/></a>
 [![rankit-badge](https://badge.rankit.run/badge?name=char-yb)](https://www.rankit.run)
 <a href="https://github.com/devxb/gitanimals">
   <img
