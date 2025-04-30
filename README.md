@@ -31,15 +31,17 @@
 | [세종대학교 창의설계경진대회](https://do.sejong.ac.kr/ko/program/all/view/1852/notice/view/5726)                                | ESL 전자태그를 활용한 스마트오피스(우수상)               |[내자리야](https://github.com/team-asos/asos-server) |
 
 ---
-
+<div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=char-yb&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/char-yb"
-  width="440"
-  height="220"
-/>
+  <img
+    src="https://render.gitanimals.org/farms/char-yb"
+    width="600"
+    height="300"
+  />
 </a>
+</div>
 
+<!--
 <a href="https://render.gitanimals.org/farms/char-yb">
 <img
   src="https://velog-readme-stats.vercel.app/api?name=uiurihappy"
@@ -48,3 +50,4 @@
 />
 </a> 
 
+-->
