@@ -22,7 +22,7 @@
 |----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
 | [구름톤 16기](https://9oormthon.goorm.io/)          | 제주도 숨은 명소 AI 기반 큐레이션(우수상)       | [탐라지도 서버](https://github.com/9oormthon-16th-pokssak/pokssak-server)    |  
 | [쓰담](https://wealthy-session-98c.notion.site/26290c66759880bc8d16fb4d1d6eabac)          | 내 주변 쓰레기통 위치 안내 서비스, 쓰담       | [쓰담 서버](https://github.com/Team-SSEUDAM/Sseudam-Server)    |  
-| [넥스터즈 27기](https://nexters.co.kr/)          | 인간 사이 AI를 찾아라!       | [Gotchai 서버](https://github.com/Nexters/gotchai-server)    |  
+| [넥스터즈 27기](https://nexters.co.kr/)          | 인간 사이 AI를 찾아라!(종료)       | [Gotchai 서버](https://github.com/Nexters/gotchai-server)    |  
 | [피다](https://apps.apple.com/kr/app/pida-%EC%9A%B0%EB%A6%AC-%EB%8F%99%EB%84%A4-%EA%BD%83%EA%B8%B8-%EC%95%88%EB%82%B4-%EC%84%9C%EB%B9%84%EC%8A%A4/id6744023330)          | 우리 동네 꽃길 안내 서비스, 피다 (종료)       | [피다 서버](https://github.com/Team-PIDA/Pida-Server)    |  
 | [SIPE 3기](https://sipe.team/)          | Smart(Spring Modular Architecture Research Team) Payment       | [2차 미션](https://github.com/sipe-team/3-2_smart_fintech)    |  
 | [SIPE 3기](https://sipe.team/)          | 어렵게 배워서, 쉽게 사용하는 Webflux + Coroutines       | [1차 미션](https://github.com/sipe-team/3_1_spring_webflux_coroutines)    |  
