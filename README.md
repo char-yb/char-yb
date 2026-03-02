@@ -20,6 +20,7 @@
 ## 🚀 Experience.
 | Activity                                                                                                | Description                                                                                                                      | Repository                          |
 |----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| [넥스터즈 28기](https://nexters.co.kr/)          | 다인원을 위한 맛집 추천 서비스(최우수상)       | [요기잇 서버](https://github.com/Nexters/yogieat-server)    |  
 | [구름톤 16기](https://9oormthon.goorm.io/)          | 제주도 숨은 명소 AI 기반 큐레이션(우수상)       | [탐라지도 서버](https://github.com/9oormthon-16th-pokssak/pokssak-server)    |  
 | [쓰담](https://wealthy-session-98c.notion.site/26290c66759880bc8d16fb4d1d6eabac)          | 내 주변 쓰레기통 위치 안내 서비스, 쓰담       | [쓰담 서버](https://github.com/Team-SSEUDAM/Sseudam-Server)    |  
 | [넥스터즈 27기](https://nexters.co.kr/)          | 인간 사이 AI를 찾아라!(종료)       | [Gotchai 서버](https://github.com/Nexters/gotchai-server)    |  
