@@ -34,6 +34,14 @@
 | [디프만 14기](https://depromeet.com)                                                | 하루 10분으로 시작하는 습관 만들기(최우수상) [활동 기록](https://velog.io/@uiurihappy/series/%EB%94%94%ED%94%84%EB%A7%8C-14%EA%B8%B0)  | [10MM(십분만) 서버](https://github.com/depromeet/10mm-server) |
 | [세종대학교 창의설계경진대회](https://do.sejong.ac.kr/ko/program/all/view/1852/notice/view/5726)                                | ESL 전자태그를 활용한 스마트오피스(우수상)               |[내자리야 서버](https://github.com/team-asos/asos-server) |
 
+### 🙏 Contribute
+| Repository                                                                                                | Issue / PR                                                                                                                   | Description                          |
+|----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| [Spring Modulith](https://github.com/spring-projects/spring-modulith) | [GH-1701](https://github.com/spring-projects/spring-modulith/issues/1701) / [PR #1702](https://github.com/spring-projects/spring-modulith/pull/1702) | Fix JPA event publication delete batching |
+| [Spring Modulith](https://github.com/spring-projects/spring-modulith) | [GH-1703](https://github.com/spring-projects/spring-modulith/issues/1703) / [PR #1704](https://github.com/spring-projects/spring-modulith/pull/1704) | Simplify JPA publication status defaulting (JpaEventPublication) |
+| [Fixture Monkey](https://github.com/naver/fixture-monkey) | [Issue 1282](https://github.com/naver/fixture-monkey/issues/1282) / [PR #1283](https://github.com/naver/fixture-monkey/pull/1283) | Optimize Kotlin primary constructor fixture generation |
+
+
 ---
 <div align="center">
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=char-yb&utm_content=farm">
