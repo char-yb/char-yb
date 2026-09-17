@@ -15,7 +15,7 @@
 -->
 
 
-
+<!--
 
 ## 🚀 Experience.
 | Activity                                                                                                | Description                                                                                                                      | Repository                          |
@@ -33,8 +33,10 @@
 | [세종피어](https://sejongpeer.co.kr/)                                              | 세종대학교 교내 버디 및 혼밥 친구 매칭 (종료)                                              |[세종피어 서버](https://github.com/SejongPeer/SejongPeer-back) |
 | [디프만 14기](https://depromeet.com)                                                | 하루 10분으로 시작하는 습관 만들기(최우수상) [활동 기록](https://velog.io/@uiurihappy/series/%EB%94%94%ED%94%84%EB%A7%8C-14%EA%B8%B0)  | [10MM(십분만) 서버](https://github.com/depromeet/10mm-server) |
 | [세종대학교 창의설계경진대회](https://do.sejong.ac.kr/ko/program/all/view/1852/notice/view/5726)                                | ESL 전자태그를 활용한 스마트오피스(우수상)               |[내자리야 서버](https://github.com/team-asos/asos-server) |
+-->
 
-### 🙏 Contribute
+
+### Contribute
 | Repository                                                                                                | Issue / PR                                                                                                                   | Description                          |
 |----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
 | [Spring Modulith](https://github.com/spring-projects/spring-modulith) | [GH-1701](https://github.com/spring-projects/spring-modulith/issues/1701) / [PR #1702](https://github.com/spring-projects/spring-modulith/pull/1702) | Fix JPA event publication delete batching |
